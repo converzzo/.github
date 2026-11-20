@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.converzzo.com">
-    <img src="https://res.cloudinary.com/dlwzrzefy/image/upload/c_scale,h_600/c_pad,w_1200,h_630,g_south_east,b_rgb:011e86/l_text:Arial_80_bold:Converzzo,co_rgb:ffffff,g_north_west,x_70,y_200/l_text:Arial_34:Cursos%20de%20marketing,co_rgb:c7d2fe,g_north_west,x_74,y_305/l_text:Arial_34:digital%20con%20expertos,co_rgb:c7d2fe,g_north_west,x_74,y_350/f_jpg,q_auto/v1789653939/Elearning-1_qjk6gm.png" alt="Converzzo — Cursos de marketing digital con expertos" width="100%" />
+    <img src="https://raw.githubusercontent.com/converzzo/.github/main/profile/banner.png" alt="Converzzo — Tu academia de marketing digital" width="100%" />
   </a>
 </p>
 
