@@ -39,10 +39,6 @@ Converzzo funciona sobre una plataforma eLearning propia, construida a la medida
 - Reproductor de cursos con progreso, vista previa y certificados verificables.
 - Comunidad, retos, soporte y panel administrativo para instructores y equipo.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=astro,ts,supabase,postgres,tailwind,vercel" alt="Stack de la plataforma" />
-</p>
-
 ---
 
 <p align="center"><a href="https://www.converzzo.com/courses"><b>Ver todos los cursos →</b></a></p>
